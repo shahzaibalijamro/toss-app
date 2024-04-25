@@ -1,0 +1,15 @@
+.heading{
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+    color: darkorange;
+}
+div{
+    text-align: center;
+}
+.coin{
+    width: 150px;
+}
+.coin-wrapper{
+    margin-top: 10px;
+}
